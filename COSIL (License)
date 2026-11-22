@@ -1,0 +1,50 @@
+[Cola Open-Source-ish License]
+
+Copyright (c) 2026 Elijah "Mike" Franklin. All Rights Reserved.
+
+1. Definitions
+
+- "Original Code" means the software source code and associated files originally distributed by the Copyright Holder under this License.
+- "Modified Code" means any file or work that contains, incorporates, or is derived from the Original Code, in whole or in part.
+- "Covered Code" means the Original Code, Modified Code, or any combination thereof.
+- "You" (or "Your") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License.
+- "Copyright Holder" means the individual(s) or entity identified in the copyright notice above.
+
+2. Grant of License
+
+Subject to the terms and conditions of this License, the Copyright Holder hereby grants You a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, display, perform, and distribute the Covered Code, in source or binary form, provided that You strictly comply with all conditions set forth in Sections 3 and 4.
+
+3. Mandatory Conditions (Share-Alike, Free Access & Credit)
+
+- Source Code Availability (Copyleft): If You distribute, deploy, or make available any Covered Code (including Modified Code) to third parties—whether as downloadable software or as a network-accessible service—You must make the complete, corresponding source code publicly available online at no cost via a standard, accessible repository under this exact License.
+- Must Remain Free of Charge: You may not sell, rent, lease, sublicense, or charge any fee for access to, use of, or distribution of the Covered Code or any derivative work based upon it. All Covered Code must remain free for anyone to access and use.
+- Mandatory Credit File: If You redistribute the Original Code or distribute Modified Code, You must include a plain-text file named CREDIT.md in the root directory of the distribution containing the following attribution text verbatim:
+  --------------------------------------------------
+  Software Name: Cola Project Component
+  Original Creator: Elijah Franklin
+  License: Cola Open-Source-ish License (COSIL)
+  --------------------------------------------------
+- Retention of Notices: You must retain all copyright, patent, trademark, and attribution notices present in the Original Code, along with a copy of this License.
+
+4. Strict Restrictions (AI & Malicious Use)
+
+You are expressly prohibited from using the Covered Code, in whole or in part, for any of the following purposes:
+- No AI / Machine Learning Training: Third parties, developers, and end-users are strictly prohibited from using the Covered Code, its outputs, or repository data to train, fine-tune, test, evaluate, or improve any artificial intelligence, machine learning model, neural network, or automated code-generation system. (Note: By hosting on platforms like GitHub, the Copyright Holder grants the platform only the technical licenses necessary for site operation, and such hosting does not waive or grant third-party AI training rights under this License).
+- No Data Theft or Unauthorized Scraping: You may not use the Covered Code to harvest, scrape, exfiltrate, intercept, or collect personal or private data without explicit, informed authorization.
+- No Malicious Activity: You may not use, modify, or deploy the Covered Code to create malware, spyware, ransomware, exploits, unauthorized access tools, or to disrupt, damage, or gain unauthorized access to any computer system, network, or device.
+
+5. Termination
+
+This License and the rights granted hereunder will terminate automatically if You fail to comply with any term or condition herein. Upon termination, You must immediately cease all use, reproduction, and distribution of the Covered Code and destroy all copies in Your possession or control.
+
+6. Disclaimer of Warranty
+
+THE COVERED CODE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE COVERED CODE IS WITH YOU.
+
+7. Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT ARISING IN ANY WAY OUT OF THE USE OF THE COVERED CODE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+8. Governing Law and Jurisdiction
+
+This License shall be governed by and construed in accordance with the laws of the State of Washington, United States, without regard to its conflict of law principles. Any legal action or proceeding arising under this License shall be brought exclusively in the state or federal courts located in Washington State, and You consent to the personal jurisdiction of such courts.
